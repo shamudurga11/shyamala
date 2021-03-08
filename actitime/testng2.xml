@@ -1,8 +1,0 @@
-
-<suite name="Suite">
-  <test  name="Test">
-    <classes>
-      <class name="actitime.CreateProjectTest"/>
-    </classes>
-  </test> 
-</suite> 

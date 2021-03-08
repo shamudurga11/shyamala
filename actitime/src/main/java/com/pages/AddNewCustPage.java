@@ -18,6 +18,7 @@ public class AddNewCustPage {
     {
     	custtb.sendKeys("Dharma");
     }
+   
     public void clickCreateCust()
     {
     	createcusttb.click();

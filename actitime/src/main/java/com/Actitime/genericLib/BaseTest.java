@@ -9,10 +9,11 @@ import org.testng.annotations.BeforeClass;
 import com.Actitime.genericLib.FileLib;
 import com.Actitime.genericLib.WebDriverCommonLib;
 
-public class BaseTest implements IAutoConsts {
+public class BaseTest implements IAutoConsts
+    {
 	public static WebDriver driver=null;
 	
-	
+	//hai
 	@BeforeClass
 	    public void openBrowser() throws Throwable
 		{

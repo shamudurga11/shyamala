@@ -3,12 +3,12 @@
 <suite name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="actitime.CreateProjectTest">
+      <class name="actitime.CreateUserTest">
         <methods>
-          <include name="createProject"/>
+          <include name="createUser"/>
           <include name="openBrowser"/>
         </methods>
-      </class> <!-- actitime.CreateProjectTest -->
+      </class> <!-- actitime.CreateUserTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
