@@ -10,6 +10,9 @@ import com.Actitime.genericLib.FileLib;
 import com.Actitime.genericLib.WebDriverCommonLib;
 
 public class BaseTest implements IAutoConsts
+
+
+
     {
 	public static WebDriver driver=null;
 	
